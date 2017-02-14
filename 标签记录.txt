@@ -1,0 +1,12 @@
+开始界面:
+	atkButton:50
+	jumpButton:51
+制作地图界面:
+	toolsFrame:99
+	frame:98
+	background:97
+	buttonPageup:52
+	buttonPagedown:53
+	buttonSave:54
+	buttonReturn:55
+	buttonClear:56
