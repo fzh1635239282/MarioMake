@@ -1,7 +1,7 @@
-开始界面:
+StartScene:
 	atkButton:50
 	jumpButton:51
-制作地图界面:
+MakeMapScene:
 	toolsFrame:99
 	frame:98
 	background:97
